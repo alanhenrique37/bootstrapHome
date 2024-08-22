@@ -1,0 +1,34 @@
+nav {
+    background-color: #2db5c4;
+}
+
+.carousel-caption {
+    margin-bottom: 60px;
+}
+
+.row {
+    width:95%;
+    margin-top:10px;
+    text-align: center; 
+}
+
+.conteudo h2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.conteudo .paragrafo {
+    text-align: center;
+}
+
+.col-md-4 h4 {
+    margin-bottom: 10px;
+}
+
+.btn {
+ background-color: #2db5c4;
+}
+
+.card {
+   margin:20px;
+}
